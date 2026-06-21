@@ -5,4 +5,15 @@ h2{
 header{
     background-color: aqua;
 
+body{
+    background-color: #e5e5e5;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;  
+    border: 1px solid black;
+}
+h4{
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
 }
