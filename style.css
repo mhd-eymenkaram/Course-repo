@@ -11,6 +11,14 @@ h2{
 }
 header{
     background-color: aqua;
+}
+main{
+    background-color: black;
+    color: cadetblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 20px;
+    margin: 35px;
 
 body{
     background-color: #e5e5e5;
